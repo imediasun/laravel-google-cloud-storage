@@ -1,11 +1,11 @@
 {
-  "name": "Devmagellan/laravel-google-cloud-storage",
+  "name": "devmagellan/laravel-google-cloud-storage",
   "description": "A Google Cloud Storage filesystem for Laravel",
   "license": "MIT",
   "authors": [
     {
-      "name": "Devmagellan.com a division of Takealot Online (Pty) Ltd",
-      "email": "info@Devmagellan.com"
+      "name": "devmagellan.com a division of Takealot Online (Pty) Ltd",
+      "email": "info@devmagellan.com"
     }
   ],
   "require": {

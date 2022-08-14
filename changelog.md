@@ -31,15 +31,15 @@
 
 ## 2.0.0 - 2018-02-07
 
-* Allow Devmagellan/flysystem-google-storage ^7.0
+* Allow devmagellan/flysystem-google-storage ^7.0
 
 ## 1.0.5 - 2018-02-02
 
-* Allow Devmagellan/flysystem-google-storage ^6.0
+* Allow devmagellan/flysystem-google-storage ^6.0
 
 ## 1.0.4 - 2017-05-19
 
-* Allow for Devmagellan/flysystem-google-storage ^5.0
+* Allow for devmagellan/flysystem-google-storage ^5.0
 
 ## 1.0.3 - 2017-05-19
 
@@ -47,7 +47,7 @@
 
 ## 1.0.2 - 2017-01-03
 
-* Allow for Devmagellan/flysystem-google-storage ^4.0
+* Allow for devmagellan/flysystem-google-storage ^4.0
 
 ## 1.0.1 - 2016-11-29
 
